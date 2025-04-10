@@ -1,4 +1,3 @@
-# SQL_Project--Online_book_Store
 
 # 📚 SQL Project – Online Book Store
 
