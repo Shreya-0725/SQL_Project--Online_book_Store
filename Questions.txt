@@ -23,4 +23,3 @@ Advance Queries
 6) Retrieve the total quantity of books sold by each author
 7) List the cities where customers who spent over $30 are located
 8) Find the customer who spent the most on orders
-9) Calculate the stock remaining after fulfilling all orders
